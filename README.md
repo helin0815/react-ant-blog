@@ -1,3 +1,6 @@
+<p align="center"><a href="http://www.boblog.com" target="_blank" rel="noopener noreferrer"><img width="234" src="./xxg.jpg" alt="logo"></a></p>
+
+
 ## React.js 博客管理后台
 
 一个基于 React.js 完整的管理后台，包含登录权限，文章管理，分类管理，用户管理，评论管理，回复管理模块
